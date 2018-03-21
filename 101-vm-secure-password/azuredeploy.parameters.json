@@ -8,9 +8,9 @@
     "adminPassword": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/XXXXXXX/resourceGroups/resourceGroupName/providers/Microsoft.KeyVault/vaults/vaultName"
+          "id": "/subscriptions/46028f71-3f52-412a-8de2-1e80dd06896d/resourceGroups/dojlab/providers/Microsoft.KeyVault/vaults/dojvault"
         },
-        "secretName": "secretName"
+        "secretName": "vmpass"
       }
     },
     "dnsLabelPrefix": {
